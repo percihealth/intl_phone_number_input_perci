@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:intl_phone_number_input/intl_phone_number_input.dart';
-import 'package:intl_phone_number_input/src/utils/formatter/as_you_type_formatter.dart';
+import 'package:intl_phone_number_input_perci/intl_phone_number_input_perci.dart';
+import 'package:intl_phone_number_input_perci/src/utils/formatter/as_you_type_formatter.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

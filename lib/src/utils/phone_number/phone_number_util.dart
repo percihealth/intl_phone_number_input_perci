@@ -1,5 +1,5 @@
 import 'package:dlibphonenumber/dlibphonenumber.dart' as p;
-import 'package:intl_phone_number_input/src/utils/phone_number.dart';
+import 'package:intl_phone_number_input_perci/src/utils/phone_number.dart';
 
 class PhoneNumberUtil {
   static p.PhoneNumberUtil phoneUtil = p.PhoneNumberUtil.instance;

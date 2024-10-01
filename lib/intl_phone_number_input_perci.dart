@@ -1,4 +1,4 @@
-library intl_phone_number_input;
+library intl_phone_number_input_perci;
 
 export 'src/utils/phone_number.dart';
 export 'src/widgets/input_widget.dart';

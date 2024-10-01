@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:intl_phone_number_input/src/models/country_model.dart';
-import 'package:intl_phone_number_input/src/utils/util.dart';
+import 'package:intl_phone_number_input_perci/src/models/country_model.dart';
+import 'package:intl_phone_number_input_perci/src/utils/util.dart';
 
 /// [Item]
 class Item extends StatelessWidget {
@@ -72,7 +72,7 @@ class _Flag extends StatelessWidget {
                 : Image.asset(
                     country!.flagUri,
                     width: 32.0,
-                    package: 'intl_phone_number_input',
+                    package: 'intl_phone_number_input_perci',
                     errorBuilder: (context, error, stackTrace) {
                       return SizedBox.shrink();
                     },

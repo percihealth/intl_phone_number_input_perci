@@ -2,17 +2,17 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:intl_phone_number_input/src/models/country_list.dart';
-import 'package:intl_phone_number_input/src/models/country_model.dart';
-import 'package:intl_phone_number_input/src/providers/country_provider.dart';
-import 'package:intl_phone_number_input/src/utils/formatter/as_you_type_formatter.dart';
-import 'package:intl_phone_number_input/src/utils/phone_number.dart';
-import 'package:intl_phone_number_input/src/utils/phone_number/phone_number_util.dart';
-import 'package:intl_phone_number_input/src/utils/selector_config.dart';
-import 'package:intl_phone_number_input/src/utils/test/test_helper.dart';
-import 'package:intl_phone_number_input/src/utils/util.dart';
-import 'package:intl_phone_number_input/src/utils/widget_view.dart';
-import 'package:intl_phone_number_input/src/widgets/selector_button.dart';
+import 'package:intl_phone_number_input_perci/src/models/country_list.dart';
+import 'package:intl_phone_number_input_perci/src/models/country_model.dart';
+import 'package:intl_phone_number_input_perci/src/providers/country_provider.dart';
+import 'package:intl_phone_number_input_perci/src/utils/formatter/as_you_type_formatter.dart';
+import 'package:intl_phone_number_input_perci/src/utils/phone_number.dart';
+import 'package:intl_phone_number_input_perci/src/utils/phone_number/phone_number_util.dart';
+import 'package:intl_phone_number_input_perci/src/utils/selector_config.dart';
+import 'package:intl_phone_number_input_perci/src/utils/test/test_helper.dart';
+import 'package:intl_phone_number_input_perci/src/utils/util.dart';
+import 'package:intl_phone_number_input_perci/src/utils/widget_view.dart';
+import 'package:intl_phone_number_input_perci/src/widgets/selector_button.dart';
 
 /// Enum for [SelectorButton] types.
 ///
